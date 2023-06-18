@@ -8,7 +8,7 @@
     Through this book store the users can search for a book by its title and
     later can add to the shopping cart and finally purchase using credit card transaction.
     
- ##   [Live App Demo](https://bookstore.netlify.app/)
+ ##   [Live App Demo](https://book-store-3b5u.onrender.com)
  
  
 
